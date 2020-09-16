@@ -1,9 +1,11 @@
 # Dog Walker Service Chatbot
 
 About
+
 Dog Walker Chatbot is chatbot built using Diagflow,node js and html css frontend.It will save users booking details to database(Firebase) and provide an estimated price of the booking.
 
 Setup
+
 Node.js 8.x or above
 Dialogflow: npm install @google-cloud/dialogflow
 Firebase: npm install -g firebase-tools
