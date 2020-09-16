@@ -6,13 +6,13 @@ Dog Walker Chatbot is chatbot built using Diagflow,node js and html css frontend
 
 Setup
 
-Node.js 8.x or above
-Dialogflow: npm install @google-cloud/dialogflow
-Firebase: npm install -g firebase-tools
-Uuid,express,body-parser: npm install uuid express body-parser
-cors: npm i cors
-Nodemailer: npm install nodemailer
-Node scheduler: npm install node-schedule
+-Node.js 8.x or above
+-Dialogflow: npm install @google-cloud/dialogflow
+-Firebase: npm install -g firebase-tools
+-Uuid,express,body-parser: npm install uuid express body-parser
+-cors: npm i cors
+-Nodemailer: npm install nodemailer
+-Node scheduler: npm install node-schedule
 
 Run instructions
 1. Add all the dependencies
